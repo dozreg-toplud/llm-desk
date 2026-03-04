@@ -39,7 +39,7 @@
   !<  octs
   .^(vase %ca /(scot %p our)/data/(scot %da now)/weights/hoon)
 ::
-~>  %bout
+~>  %bout  ::  took s/1643. Sad!
 %^  (run-once:wasm cord acc-mold)  [llama-cpp-wrapper *acc-mold imports]  %$
 =/  m  (script-wasm cord acc-mold)
 ^-  form:m
