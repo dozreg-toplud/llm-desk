@@ -1,7 +1,7 @@
 =,  mimes:html
 |_  stoc=octs
 ++  grab  |%
-          ++  noun  stoc
+          ++  noun  octs
           ++  mime  |=([* p=octs] p)
           --
 ++  grow  |%
