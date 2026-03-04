@@ -1,0 +1,1 @@
+An Urbit desk to run LLM inference via Wasm.
