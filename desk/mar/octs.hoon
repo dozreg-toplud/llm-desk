@@ -1,0 +1,11 @@
+=,  mimes:html
+|_  stoc=octs
+++  grab  |%
+          ++  noun  stoc
+          ++  mime  |=([* p=octs] p)
+          --
+++  grow  |%
+          ++  mime  [/application/x-urb-unknown stoc]
+          --
+++  grad  %mime
+--

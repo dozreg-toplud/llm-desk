@@ -1,0 +1,12 @@
+desk/weight-splits-09.octs filter=lfs diff=lfs merge=lfs -text
+desk/weight-splits-00.octs filter=lfs diff=lfs merge=lfs -text
+desk/weight-splits-01.octs filter=lfs diff=lfs merge=lfs -text
+desk/weight-splits-02.octs filter=lfs diff=lfs merge=lfs -text
+desk/weight-splits-04.octs filter=lfs diff=lfs merge=lfs -text
+desk/weight-splits-05.octs filter=lfs diff=lfs merge=lfs -text
+desk/weight-splits-06.octs filter=lfs diff=lfs merge=lfs -text
+desk/weight-splits-07.octs filter=lfs diff=lfs merge=lfs -text
+desk/weight-splits-03.octs filter=lfs diff=lfs merge=lfs -text
+desk/weight-splits-08.octs filter=lfs diff=lfs merge=lfs -text
+desk/weight-splits-10.octs filter=lfs diff=lfs merge=lfs -text
+desk/weight-splits-11.octs filter=lfs diff=lfs merge=lfs -text
