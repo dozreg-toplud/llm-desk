@@ -11,5 +11,5 @@ crashes on `|commit`
 
 
 TODO:
-- [] Vere64 fixes all of that?
-- [] why rsync + `|commit` caused all files to be commited?
+- [ ] Vere64 fixes all of that?
+- [ ] why rsync + `|commit` caused all files to be commited?
